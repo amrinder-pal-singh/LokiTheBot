@@ -1,0 +1,18 @@
+{
+    "name": "LokiTheBulkyBot",
+    "description": "",
+    "services": [
+        {
+            "type": "endpoint",
+            "appId": "",
+            "appPassword": "",
+            "endpoint": "http://localhost:3978/api/messages",
+            "id": "0c417d90-45b0-11e9-abd2-49f8914035f9",
+            "name": "http://localhost:3978/api/messages"
+        }
+    ],
+    "padlock": "",
+    "version": "2.0",
+    "overrides": null,
+    "path": "C:\\Users\\amrin\\source\\repos\\LokiTheBulkyBot\\LokiTheBulkyBot.bot"
+}
